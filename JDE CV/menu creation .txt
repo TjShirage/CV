@@ -1,0 +1,34 @@
+menu creation Qsoft apllication
+
+task id,
+task name
+task type
+(
+1 - application,
+2,report
+7- folder)
+
+level number
+
+object name/id,
+form name (start with w )
+versions
+
+option code
+1- no processing option
+2- prompt values for version
+3- data selection
+4 - blind execution
+5- prompt for values
+6- data  selection & value
+
+
+
+Omw (object work management ) - for versions
+
+DEv -22
+Prototype-24
+QATR - 26
+UT - 30
+Production -38
+

@@ -1,0 +1,13 @@
+good morning sir 
+
+my name is tejashri harshad Bhosale .I have completed my 10 the and 12th at gadhinglaj
+after my 12 th I moved to satara for pursing bachelors degree in computer science engg.
+after completing my degree i got opportunities from wolfox service pvt.ltd as junior consultant there i have got  cross functional training about oracle ERP system in that 
+after that i have worked in Happieloop technology as consultant i have  worked  on project as a shadow resource there i  was support my senior to analyze the errors for e.g. inventory UOM error , sales order  if the price is not reflecting  then we are checking  why its not reflecting then we are checking base price and item cost revision 
+after getting exp i got opportunity from go digit there i have worked in support  projects TL assigns us tickets to analyze and  resolve it and  also i have worked on  roll out project   and  there i have worked on inventory transactions such as crating item master , branch plant , item IA, II,IT ,cycle count p2p ,) due to covid 
+after that i got opportunities from maverick systems as JDE consultant   there i have worked  in support as well as roll out projects in that i have worked on   inventory ,O2C, p2p , ST-OT,SK-OK for roll out project for EEMA region we are providing support , also  as per the test script we executing in JDE if desired output is not came then we are checking processing option and providing solution or not if not we are mentioning    in EXCEL sheet.  in FSD   they are mentioning all functional req. as per output req. for end user ,  (business process flow) , configuration check  in that we are checking menus , processing options , versions , UDC .
+
+
+Subsequently, I joined Go Digit, working on support projects where I analyzed and resolved tickets and participated in roll-out projects. My responsibilities included handling inventory transactions and processes like item master creation, cycle counts, and P2P
+
+Maverick Systems as a JDE Consultant, where I work on both support and roll-out projects. My role involves managing inventory, O2C, P2P, ST-OT, and SK-OK processes, ensuring configuration checks, and executing test scripts to meet the desired output for end users.
